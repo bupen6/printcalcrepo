@@ -2,8 +2,7 @@
 For Papercut
 
 Prerequisites:
-Java 7 or above
-MySQL database
+Java 7 or above, MySQL database
 
 Please execute sql commands given in sql file in-order in MySQL database to prepare it.
 
